@@ -3,14 +3,18 @@
 A new Flutter project.
 
 ## Getting Started
+This is an app to practice Flutter skills. The main functionality is that you can send messages with '?' in each question and autimatically the 'bot' response with a gif saying yes or not. 
 
-This project is a starting point for a Flutter application.
+## I learned
 
-A few resources to get you started if this is your first Flutter project:
++ Build widgets
++ Create themes
++ Http requests
++ Mappers
++ Use providers to state management
++ Reactive progamation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## To use
+1. Clone this repository
+2. Check your instalations (Vscode, Android studio and Xcode if you have a mac)
+3. Run the project
