@@ -53,6 +53,14 @@ app.*.map.json
 # Carpeta de compilación de Flutter
 build/
 
+/android
+/build
+/ios
+/linux
+/macos
+/web
+
+
 # Archivos temporales generados por Flutter
 **/ios/Flutter/.last_build_id
 **/ios/Flutter/App.framework/App
