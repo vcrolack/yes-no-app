@@ -42,3 +42,40 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Carpeta de compilación de Dart
+.build/
+.dart_tool/
+
+# Carpeta de dependencias de Flutter
+.pub/
+
+# Carpeta de compilación de Flutter
+build/
+
+# Archivos temporales generados por Flutter
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/App.framework/App
+**/ios/Flutter/Flutter.framework/Flutter
+
+# Carpeta específica de Android
+**/android/build/
+**/android/app/build/
+
+# Carpeta específica de macOS
+**/macos/Flutter/Flutter.xcworkspace/contents.xcworkspacedata
+
+# Carpeta específica de web
+**/web/assets/
+
+# Archivos de configuración de Android Studio
+android/gradle.properties
+android/local.properties
+
+# Archivos de configuración de Xcode
+ios/Runner.xcodeproj/project.pbxproj
+macos/Runner.xcodeproj/project.pbxproj
+
+# Archivos de configuración de VS Code
+.vscode/
+
